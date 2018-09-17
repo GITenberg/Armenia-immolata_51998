@@ -1,0 +1,25 @@
+_repo: Armenia-immolata_51998
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Steele, Edward Strieby
+    birthdate: 1850
+    deathdate: 1942
+    gutenberg_agent_id: '46626'
+    url: http://www.gutenberg.org/2009/agents/46626
+description: ''
+gutenberg_issued: '2016-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51998'
+  lccn: '30028376'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Armenian question -- Poetry'
+- !lcc 'PS'
+- GITenberg
+title: Armenia immolata
+url: http://www.gutenberg.org/ebooks/51998
